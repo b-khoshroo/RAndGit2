@@ -3,3 +3,4 @@ print(x+4)
 y <- 2
 print(y)
 z <- 67
+print(z)
