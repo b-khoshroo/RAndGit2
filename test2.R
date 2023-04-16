@@ -4,3 +4,5 @@ y <- 2
 print(y)
 z <- 67
 print(z)
+
+z <- x+y
